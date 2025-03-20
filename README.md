@@ -6,11 +6,11 @@
 5. Mengerti cara menangani event dan memanipulasi DOM
 
 **Tugas Praktikum**
-1. Aplikasi to-do list sederhana. Style tampilan tidak menjadi penilaian, fokus utama pada fungsionalitas JavaScript, dengan kriteria:
-Menambahkan item baru
-Menandai item sebagai selesai
-Menghapus item
-Menyimpan data ke localStorage
+1. Aplikasi to-do list sederhana. Fokus utama pada fungsionalitas JavaScript, dengan kriteria:
+- Menambahkan item baru
+- Menandai item sebagai selesai
+- Menghapus item
+- Menyimpan data ke localStorage
 
 2. kalkulator untuk mendukung operasi matematika tambahan seperti pangkat, akar kuadrat, dan modulus.
 
