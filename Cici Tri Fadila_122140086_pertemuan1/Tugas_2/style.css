@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #ff9a9e, #fad0c4); 
+    padding: 20px;
+}
+
+.container {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    width: 350px;
+    text-align: center;
+}
+
+.judul {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.sub-judul {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 15px 0 10px;
+}
+
+.input-group {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+    flex-wrap: wrap;  
+    justify-content: center;
+}
+
+input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+    width: calc(50% - 5px); 
+}
+
+button {
+    background: #ff758c;
+    color: white;
+    border: none;
+    padding: 12px 15px; 
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s;
+    font-size: 16px; 
+    min-width: 120px; 
+    text-align: center;
+}
+
+button:hover {
+    background: #ff5a6e;
+}
+
+#sapa-button {
+    width: 100%; 
+    padding: 14px; 
+    font-weight: bold; 
+    margin-bottom: 10px; 
+}
+
+.button-group {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+#hasil-kalkulator, #sapa-output {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    margin-top: 10px;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 8px;
+}
+
+.success {
+    color: rgb(79, 87, 79);
+}
+
+.error {
+    color: red;
+}
+
+.result {
+    color: rgb(145, 7, 236);
+}
