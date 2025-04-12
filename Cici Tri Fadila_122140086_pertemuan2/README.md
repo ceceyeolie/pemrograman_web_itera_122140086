@@ -28,13 +28,20 @@ Semua data disimpan secara lokal di browser menggunakan localStorage sehingga ti
 Dokumentasi: https://drive.google.com/drive/folders/1vzm_-euRgb6irOW4tqNBAd393DRpwQQz?usp=sharing
 
 🧠 Daftar Fitur JavaScript ES6+ yang Digunakan
-Fitur ES6+	Deskripsi
-Class	Struktur berbasis OOP: Dashboard untuk manajemen data dan event handler.
-Arrow Functions	Fungsi anonim pendek, seperti ()=>{} untuk listener event dan callback.
-let & const	Penggunaan variabel blok-scope yang lebih aman dan modern.
-Template Literals	Penulisan HTML dinamis seperti \${item.date}: ${item.content}``.
-Destructuring	Ekstraksi properti dari objek, seperti const { date, content } = item;.
-Spread Operator	Salinan array / objek dengan aman: const schedules = [...this.schedules];.
-Default Parameters	Nilai default di fungsi handleAdd dan render.
-Async/Await	Pengambilan data cuaca secara asynchronous dan readable.
-Mod
+
+1. Class	Struktur berbasis OOP: Dashboard untuk manajemen data dan event handler.
+ 
+2. Arrow Functions	Fungsi anonim pendek, seperti ()=>{} untuk listener event dan callback.
+   
+3. let & const	Penggunaan variabel blok-scope yang lebih aman dan modern.
+   
+4. Template Literals	Penulisan HTML dinamis seperti \${item.date}: ${item.content}``.
+   
+5. Destructuring	Ekstraksi properti dari objek, seperti const { date, content } = item;.
+    
+6. Spread Operator	Salinan array / objek dengan aman: const schedules = [...this.schedules];.
+    
+7. Default Parameters	Nilai default di fungsi handleAdd dan render.
+    
+8. Async/Await	Pengambilan data cuaca secara asynchronous dan readable.
+
