@@ -1,8 +1,9 @@
-📅 Dashboard Konten PIKR Sejahtera ITERA
+# 📅 Dashboard Konten PIKR Sejahtera ITERA
+
 Aplikasi Dashboard Konten PIKR Sejahtera ITERA adalah sebuah sistem manajemen jadwal pembuatan konten yang simpel namun powerful berbasis web. Aplikasi ini memudahkan tim dalam merencanakan, memantau progres, hingga menyelesaikan jadwal konten mingguan atau bulanan.
 
 
-💡 Fitur Aplikasi
+## 💡 Fitur Aplikasi
 ✅ Tambah Jadwal Konten
 Kamu bisa menambahkan tanggal, deskripsi konten, dan status pekerjaan (Planning, On Progress, Selesai).
 
@@ -24,10 +25,10 @@ Tersedia tombol untuk mengambil info cuaca terkini dari API OpenWeather, cocok u
 💾 Data Persistence
 Semua data disimpan secara lokal di browser menggunakan localStorage sehingga tidak hilang meski halaman di-refresh.
 
-💻 Screenshot Tampilan Aplikasi
+## 💻 Screenshot Tampilan Aplikasi
 Dokumentasi: https://drive.google.com/drive/folders/1vzm_-euRgb6irOW4tqNBAd393DRpwQQz?usp=sharing
 
-🧠 Daftar Fitur JavaScript ES6+ yang Digunakan
+## 🧠 Daftar Fitur JavaScript ES6+ yang Digunakan
 
 1. Class	Struktur berbasis OOP: Dashboard untuk manajemen data dan event handler.
  
