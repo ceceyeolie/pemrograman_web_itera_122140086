@@ -1,11 +1,16 @@
 Strukutur library management:
 │
-├── 📄 library_item.py        # Abstract class LibraryItem
-├── 📄 book.py                # Subclass Book
-├── 📄 magazine.py            # Subclass Magazine
-├── 📄 library.py             # Class Library (mengelola koleksi item)
-├── 📄 main.py                # Program utama (menu interaktif / demo)
-└── 📄 README.md              # Penjelasan singkat struktur 
+├── library_item.py        # Abstract class LibraryItem
+
+├── book.py                # Subclass Book
+
+├── magazine.py            # Subclass Magazine
+
+├── library.py             # Class Library (mengelola koleksi item)
+
+├── main.py                # Program utama (menu interaktif / demo)
+
+└── README.md              # Penjelasan singkat struktur 
 
 === Sistem Manajemen Perpustakaan ===
 1. Tambah Buku
