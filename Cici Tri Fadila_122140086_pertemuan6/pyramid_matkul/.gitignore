@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Pyramid logs and SQLite DBs
+*.log
+*.sqlite3
+*.db
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+ENV/
+Pipfile.lock
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+
+# mypy
+.mypy_cache/
+
+# VS Code settings
+.vscode/
+
+# Mac/Linux/Windows OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Pyramid specific config
+development.ini~
+*.egg-info/
+.eggs/
+*.ini.bak
+.idea/
+
+# Static cache (if any)
+static/cache/
